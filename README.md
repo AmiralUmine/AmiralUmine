@@ -1,17 +1,17 @@
-#TITOLO DI PRIMO LIVELLO
+# TITOLO DI PRIMO LIVELLO
 
 mio testo
 
-##BIOGRAFIA
+## BIOGRAFIA
 
 bla bla
 
-##LAVORI FATTI
+## LAVORI FATTI
 
 -lavoro 1
 -lavoro 2
 -lavoro 3
 
-##CONTATTI
+## CONTATTI
 
 contatti
